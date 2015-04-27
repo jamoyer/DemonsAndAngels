@@ -1,0 +1,24 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X (  ____ \\     /|  ___  )  ____ )(  ___  )  ____ \__   __/  ____ \  ____ )  X
+X | (    \/ )   ( | (   ) | (    )|| (   ) | (    \/  ) (  | (    \/ (    )|  X
+X | |     | (___) | (___) | (____)|| (___) | |        | |  | (__   | (____)|  X
+X | |     |  ___  |  ___  |     __)|  ___  | |        | |  |  __)  |     __)  X
+X | |     | (   ) | (   ) | (\ (   | (   ) | |        | |  | (     | (\ (     X
+X | (____/\ )   ( | )   ( | ) \ \__| )   ( | (____/\  | |  | (____/\ ) \ \__  X
+X (_______//     \|/     \|/   \__/|/     \|_______/  )_(  (_______//   \__/  X
+X                                                                             X
+X   Items                       Stats                       Equiped           X
+X 1                     Health:                       Head:                   X
+X 2                 Max Health:                       Arms:                   X
+X 3                     Energy:                      Hands:                   X
+X 4                 Max Energy:                       Legs:                   X
+X 5                  Alignment:                       Feet:                   X
+X 6                                                                           X
+X 7                     Attack:                                               X
+X 8                    Defense:                                               X
+X 9                      Armor:                                               X
+X10                      Speed:                                               X
+X11                                                                           X
+X12                       Name:                                               X
+X13                      Level:                                               X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

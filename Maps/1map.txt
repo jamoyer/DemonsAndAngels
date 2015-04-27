@@ -1,0 +1,77 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~~~~~~~~~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                        xxx                                                   $   x   ~~~~~~~~~~~                                           X
+X                xxxxx%xxxxxxx                   xxxx          xx       xxxxx      x   ~~~~~~~~~~~                                           X
+X                xxxxxxxxxxx                   xxxxxxxx      xxxxxx         x $  $ x   ~~~~~~~~~~~               xxxxx                       X
+~~                                xxx            xxxx          xx           xxxxxxxx   ~~~~~~~~~~~           xxxxxxxxxxxxx                   X
+~~~~~~                           xxxxx                                                  ~~~~~~~~~~~        xxxxxxxxxxxxxxxxxxxxx             X
+~~~~~~~~~~~~~                     xxx                                                    ~~~~~~~~~~~        xxxxxxxxxxxxxxxxxxxxxx           X
+~~~~~~~~~~~~~~~~~~~~~~                                   xxx               xxxxx          ~~~~~~~~~~~          xxxxxxxxxxxxxxxxxxxxx         X
+X ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                   xxxxxxx          xxxxxxxxxxx        ~~~~~~~~~~~          xxxxxxxxxxxxxxxxxxxxxx       X
+X       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~            xxx            xxxxxxxxxxx         ===========        xxxxxxxxxxxxxxxxxxxx          X
+X                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                           xxxxx            ===========       xxxxxxxxxxxxxxxxxxx            X
+X                             ~~~~~~~~~~~~~~~~~~~~~                                         ~~~~~~~~~~~xxxxxxxxxxxxxxxxxxxxx                 X
+X                                       ~~~~~~~~~~~~~~                                    ~~~~~~~~~~xxxxxxxxxxxxxx                           X
+X                                         ~~~~~~~~~~~~~                              ~~~~~~~~~~~~~xxxxxxxx                                   X
+X                                          ~~~~~~~~~~~~~                xxx       ~~~~~~~~~~~~~                     xxxxxxxxxx               X
+X                        ########           ~~~~~~~~~~~~~E            xxxxxxx    ~~~~~~~~~~~~                  xxxxxxxxxxxxxxxxxxxxxx        X
+X   ##########           ########           ====~~~======               xxx       ~~~~~~~~~~~~            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     X
+X   ##########           ########           =====~~~=====                           ~~~~~~~~~~~~~       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   X
+X   ##########           ########           ~~~~~~~~~~~~~                             ~~~~~~~~~~~       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  X
+X   ##########           ########            ~~~~~~~~~~~~~                            ~~~~~~~~~~~           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX
+X   #####%####                                ~~~~~~~~~~~~~                           ~~~~~~~~~~~                  xxxxxxxxxxxxxxxxxxxxxxxxxxX
+X                    &                         ~~~~~~~~~~~~~       xxxxxxxxxx          ~~~~~~~~~~~                       xxxxxxxxxxxxxxxxxxxxX
+X               xxxxx xxxxxx       ######      ~~~~~~~~~~~~~~ xxxxxxxxxxxxxxxxxxxxxx    ~~~~~~~~~~                        xxxxxxxxxxxxxxxxxxxX
+X               x          x       ######     ~~~~~~~~~~~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxx~~~~~~~~~~                         xxxxxxxxxxxxxxxxxxX
+X########       x  $     $ x       ######    ~~~~~~~~~~~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx~~~~~~~~~~xxxx                       xxxxxxxxxxxxxxxxX
+X########       x      $   x       ######    ~~~~~~~~~~~~~~   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                         xxxxxxxxxxX
+X########       x          x       ######    ~~~~~~~~~~~~~~~         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       xxxxxxX
+X########       xxxxxxxxxxxx       ######     ~~~~~~~~~~~~~~~             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                         xX
+X########                                       ~~~~~~~~~~~                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      X
+X########                                     ~~~~~~~~~~~~                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     X
+X                                          ==============                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   X
+X                                          ==============                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 X
+X     xxx            #########            ~~~~~~~~~~~~                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               X
+X    xxxxx           #########        ~~~~~~~~~~~~  xxxxxxxxxxxxxxxxxx               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           X
+X     xxx            #########     ~~~~~~~~~~~~   xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       X
+X                    #########   ~~~~~~~~~~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       X
+X                            ~~~~~~~~~~~~~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       X
+%     x     xxx           ~~~~~~~~~~~~~~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxx          X
+X    xxx   xxxxx      ==========~~~~~~~~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxx                xxxxxxxxxxxxxxxxx                 X
+X     x     xxx       ==========~~~~~~~~~~  xxxxxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxx                      ~~~~~~~                        X
+X                     ==========~~~~~~~~~~     xxxxxxxxxxxxxxxxxxxxxx         xxxxxxxx                       ~~~~~~~                         X
+X                     ~~~~~~~~~~~~~~~~~~~         xxxxxxxxxxxxxxxxx        xxxxxxxx                          ~~~~~~~                         X
+X                     ~~~~~~~~~~~~~~~~~~          xxxxxxxxxxxxxxxxx     xxxxxxxxxxx                         ~~~~~~~         xxxxxx           X
+X   ###########       ~~~~~~~~~~~~~~~                     xxxxxxxxx     xxxxxx                             ~~~~~~~       xxxxxxxxxxxxxxxx    X
+X   ###########       ~~~~~~~~~~~~~           xxx              xxxx     xxx                               ~~~~~~~    xxxxxxxxxxxxxxxxxxxxxx  X
+X   ###########      ~~~~~~~~~~~~            xxxxx                x     x                                ~~~~~~~    xxxxxxxxxxxxxxxxxxxxxxx  X
+X   ###########     ~~~~~~~~~~~~     xxx      xxx          xxx          xxx                              ~~~~~~~      xxxxxxxxxxxxxxxxxxx    X
+X                 ~~~~~~~~~~~~      xxxxx                 xxxxx        xxxxx                             ~~~~~~~           xxxxxxxxxx        X
+X              ~~~~~~~~~~~~~        xxxx     x             xxx          xxx                               ~~~~~~~              xxx           X
+X          ~~~~~~~~~~~~~                    xx       xxx          xxx                                     ~~~~~~~~                           X
+X       ~~~~~~~~~~~~                                xxxxx        xxxxx               xxxxxxx               ~~~~~~~~           xxx            X
+X     ~~~~~~~~~~~~                                   xxx          xxx           xxxxxxxxxxxxxxxxx           ~~~~~~~~ xxx     xxxxx           X
+X   ~~~~~~~~~~~~                           xxx                               xxxxxxxxxxxxxxxxxxxxxxx         ~~~~~~~xxxxx     xxx            X
+X ~~~~~~~~~~~~                    xxx    xxxxxxx                  xxx      xxxxxxxxxxxxxxxxxxxxxxxxxxx        ~~~~~~~xxx                     X
+~~~~~~~~~~~                      xxxxx  xxxxxxxxx    xxx         xxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxx        ~~~~~~~             xxx        X
+~~~~~~~~~~                        xxx    xxxxxxx xxxxxxxxxx       xxx        xxxxxxxxxxxxxxxxxxxxxxx          ~~~~~~~           xxxxxxx      X
+~~~~~~~~                                   xxx  xxxxxxxxxxxx                    xxxxxxxxxxxxxxxx              ~~~~~~~             xxx        X
+~~~~~               xxxxx                       xxxxxxxxxxxxxxx        xxx           xxxxxx                   ~~~~~~~    xxx                 X
+~~                xxxxxxxxx                        xxxx    xxxxx   xxxxxxxxxxxx                               ~~~~~~~  xxxxxxx               X
+X                   xxxxx       xxx       xxx               xxxxxxxxxxxxxxxxxxxxx                             ~~~~~~~    xxx     xxx         X
+X          xxxx                xxxxx     xxxxx                 xxxxxxxxxxxxxxxx                               ~~~~~~~           xxxxx        X
+X        xxxxxxxx               xxx       xxx         xxxx       xxxxxxxxxxx                                  ~~~~~~~            xxx         X
+X          xxxx        xxx                          xxxxxxxx        xxxx                                      ~~~~~~~                        X
+X                     xxxxx       xxx                 xxxx                        xxx                        ~~~~~~~                         X
+X                      xxx       xxxxx       xxx                 xxxx           xxxxxxx                      ~~~~~~~        xxx      xxx     X
+Xxxxxx                            xxx       xxxxx      xxx      xxxxxx            xxx                       ~~~~~~~        xxxxx    xxxxx    X
+Xxxxxxxxxxxxx                                xxx      xxxxx      xxxx                                       ~~~~~~~         xxx      xxx     X
+Xxxxxxxxxxxxxxxxxxx                                    xxx                         xxxxxxxxxxxxxxxxx       ~~~~~~~                           X
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                      xxx         xxxxxxxxxxxxxxxx     ~~~~~~~                  xxxxxxxxxxX
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxx         xxxxxxxxxxxxxxxxx   ~~~~~~~xxxx         xxxxxxxxxxxxx  X
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxx  ~~~~~~~Exxxxxx     xxxxxxxxxx       X
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxx ==~~~==   xxxxx    xxxxxx           X
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%xx     xxxxxxxxxxxxxxxxx~~~~~~~       xx    xx           $   X
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxx~~~~~~~  $            $               X
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxx~~~~~~~          $         $          X
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx~~~~~~~                                %
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~~~~~~~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXv

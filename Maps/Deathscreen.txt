@@ -1,0 +1,26 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                                             X
+X                                                                             X
+X               ...                       You have died.                      X
+X             ;::::;                                                          X
+X           ;::::; :;                                                         X
+X         ;:::::'   :;                                                        X
+X        ;:::::;     ;.                                                       X
+X       ,:::::'       ;           OOO\                                        X
+X       ::::::;       ;          OOOOO\                                       X
+X       ;:::::;       ;         OOOOOOOO                                      X
+X      ,;::::::;     ;'         / OOOOOOO                                     X
+X    ;:::::::::`. ,,,;.        /  / DOOOOOO                                   X
+X  .';:::::::::::::::::;,     /  /     DOOOO                                  X
+X ,::::::;::::::;;;;::::;,   /  /        DOOO                                 X
+X;`::::::`'::::::;;;::::: ,#/  /          DOOO                                X
+X:`:::::::`;::::::;;::: ;::#  /            DOOO                               X
+X::`:::::::`;:::::::: ;::::# /              DOO                               X
+X`:`:::::::`;:::::: ;::::::#/               DOO                               X
+X :::`:::::::`;; ;:::::::::##                OO                               X
+X ::::`:::::::`;::::::::;:::#                OO                               X
+X `:::::`::::::::::::;'`:;::#                O                                X
+X  `:::::`::::::::;' /  / `:#                                                 X
+X   ::::::`:::::;'  /  /   `#                                                 X
+X                                                                             X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
